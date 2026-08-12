@@ -7,9 +7,10 @@ import routes from './routes';
 
 Vue.use(Resource);
 Vue.use(VueRouter);
-Vue.config.debug = true;
+Vue.config.debug = process.env.NODE_ENV !== 'production';
 
 const router = new VueRouter({
+    mode: 'history',
     scrollBehavior: () => ({ y: 0 }),
     routes
 });

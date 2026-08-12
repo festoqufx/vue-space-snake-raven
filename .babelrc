@@ -2,18 +2,15 @@
   "comments": false,
   "env": {
     "testing-unit": {
-      "presets": ["es2015", "stage-0"],
-      "plugins": ["istanbul"]
+      "presets": ["@babel/preset-env"]
     },
     "main": {
-      "presets": ["es2015", "stage-0"]
+      "presets": ["@babel/preset-env"]
     },
     "renderer": {
       "presets": [
-        ["es2015", { "modules": false }],
-        "stage-0"
+        ["@babel/preset-env", { "modules": false }]
       ]
     }
-  },
-  "plugins": ["transform-runtime"]
+  }
 }

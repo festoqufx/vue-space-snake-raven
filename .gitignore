@@ -1,12 +1,31 @@
+# OS files
 .DS_Store
+Thumbs.db
+thumbs.db
+
+# Build outputs (generated files)
 app/dist/index.html
 app/dist/main.js
 app/dist/renderer.js
 app/dist/styles.css
 builds/*
-coverage
+
+# Dependencies
 node_modules/
+app/node_modules/
+
+# Logs
 npm-debug.log
 npm-debug.log.*
-thumbs.db
+
+# Test coverage
+coverage
+
+# Keep .gitkeep files
 !.gitkeep
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
