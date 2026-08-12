@@ -16,7 +16,6 @@ let rendererConfig = {
   entry: {
     renderer: path.join(__dirname, 'app/src/renderer/main.js')
   },
-  externals: Object.keys(pkg.dependencies || {}),
   module: {
     rules: [
       {
@@ -104,7 +103,6 @@ let rendererConfig = {
   ],
   output: {
     filename: '[name].js',
-    libraryTarget: 'commonjs2',
     path: path.join(__dirname, 'app/dist')
   },
   resolve: {
@@ -118,7 +116,7 @@ let rendererConfig = {
       path.join(__dirname, 'node_modules')
     ]
   },
-  target: 'electron-renderer'
+  target: 'web'
 }
 
 if (process.env.NODE_ENV !== 'production') {

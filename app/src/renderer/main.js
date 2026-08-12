@@ -1,12 +1,10 @@
 import Vue from 'vue';
-import Electron from 'vue-electron';
 import Resource from 'vue-resource';
 import VueRouter from 'vue-router';
 
 import App from './App';
 import routes from './routes';
 
-Vue.use(Electron);
 Vue.use(Resource);
 Vue.use(VueRouter);
 Vue.config.debug = true;
