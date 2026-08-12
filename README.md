@@ -2,15 +2,10 @@
 
 A Desktop game built with [Electron-vue](https://github.com/SimulatedGREG/electron-vue) template.
 
-![Screenshot](/Screenshot.png?raw=true "Screenshot")
 
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/ilyagru/Space-Snake/blob/master/LICENSE)
-[![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]()
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![](https://img.shields.io/badge/tests-not%20tested-red.svg)]()
-[![](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-blue.svg)]()
-[![](https://img.shields.io/badge/download-releases-brightgreen.svg)](https://github.com/ilyagru/Space-Snake/releases)
-[![MadeWithVueJs.com shield](https://madewithvuejs.com/storage/repo-shields/173-shield.svg)](https://madewithvuejs.com/p/space-snake/shield-link)
+
+
+
 
 ## Description
 
@@ -41,11 +36,6 @@ npm run lint
 # run webpack in production
 npm run pack
 ```
-More information can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/docs/npm_scripts.html).
-
----
-
-This project was generated from [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about this project can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
 
 
 TODO:
@@ -61,6 +51,4 @@ TODO:
 - [x] Clean code
 - [x] Downloadable bundles
 
-## License
 
-[MIT](https://github.com/ilyagru/Space-Snake/blob/master/LICENSE)
