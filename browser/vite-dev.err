@@ -1,0 +1,2812 @@
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+esheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:46:45 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:48:23 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:02 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:28 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:49:54 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:08 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:09 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:10 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:43 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:50:43 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:51:10 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+[2m5:51:10 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+  ╷
+3 │     background-color: $color-bg;
+  │                       ^^^^^^^^^
+  ╵
+  ..\app\src\renderer\components\Topbar\Topbar.vue 3:23  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:51:10 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+[2m5:57:37 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+18 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 18:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m5:57:37 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+[2m5:57:37 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+18 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 18:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:00:24 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:00:29 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+21 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Game\Game.vue 21:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+21 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Game\Game.vue 21:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+21 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Game\Game.vue 21:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+21 │             color: $color-muted;
+   │                    ^^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\components\Game\Game.vue 21:20  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:03:03 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:03:40 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:03:41 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:03:41 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:116:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:04:46 PM[22m [31m[1m[vite][22m[39m Pre-transform error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+[2m6:04:46 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: [sass] Undefined variable.
+   ╷
+28 │     color: $color-text;
+   │            ^^^^^^^^^^^
+   ╵
+  ..\app\src\renderer\styles\milligram.scss 28:12  @import
+  ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+  Plugin: [35mvite:css[39m
+  File: [36mD:\COPILOT\github backup\00 - sample project\Space-Snake\app\src\renderer\styles\milligram.scss[39m:130:0
+[33m  Error: Undefined variable.
+     ╷
+  28 │     color: $color-text;
+     │            ^^^^^^^^^^^
+     ╵
+    ..\app\src\renderer\styles\milligram.scss 28:12  @import
+    ..\app\src\renderer\App.vue 2:9                  root stylesheet[39m
+      at Object.wrapException (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:2310:47)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91602:23
+      at _wrapJsFunctionForAsync_closure.$protected (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4978:15)
+      at _wrapJsFunctionForAsync_closure.call$2 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:38744:12)
+      at Object._asyncStartSync (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:4942:20)
+      at _EvaluateVisitor2.visitVariableExpression$body$_EvaluateVisitor0 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91608:16)
+      at _EvaluateVisitor2.visitVariableExpression$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:91582:19)
+      at VariableExpression0.accept$1$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129930:22)
+      at VariableExpression0.accept$1 (D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:129933:19)
+      at D:\COPILOT\github backup\00 - sample project\Space-Snake\node_modules\sass\sass.dart.js:89617:41
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+2 │ @import './styles/milligram';
+  │         ^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\App.vue 2:9  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Topbar\Topbar.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; .align-right {
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\styles\helpers.scss 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Leaderboard\Leaderboard.vue 1:116  root stylesheet
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:9  root stylesheet
+
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+1 │ @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/variables.scss"; @import "D:/COPILOT/github backup/00 - sample project/Space-Snake/app/src/renderer/styles/mixins.scss"; 
+  │                                                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    ..\app\src\renderer\components\Game\Game.vue 1:116  root stylesheet
+

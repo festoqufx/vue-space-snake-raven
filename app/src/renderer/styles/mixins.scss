@@ -1,0 +1,47 @@
+@mixin gradient-text($gradient) {
+    background: $gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+@mixin cell-image($url) {
+    background: url($url) $color-white;
+    background-size: cover;
+    background-position: center;
+}
+
+@mixin button-base {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: $transition-primary;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+@mixin focus-ring {
+    &:focus {
+        outline: 2px solid $color-black;
+        outline-offset: 2px;
+    }
+}
+
+@mixin hover-lift {
+    &:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: $shadow-lg;
+    }
+}
+
+@mixin card {
+    background: $color-white;
+    border: 1px solid $color-gray-200;
+    border-radius: $radius-large;
+    box-shadow: $shadow-sm;
+    transition: $transition-primary;
+}

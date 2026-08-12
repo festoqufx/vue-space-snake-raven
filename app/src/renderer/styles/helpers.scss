@@ -1,0 +1,57 @@
+.align-right {
+    text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.shadow {
+    box-shadow: $shadow-md;
+}
+
+.shadow-lg {
+    box-shadow: $shadow-lg;
+}
+
+.shadow-xl {
+    box-shadow: $shadow-xl;
+}
+
+.hidden {
+    display: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gap-sm {
+    gap: 8px;
+}
+
+.gap-md {
+    gap: 16px;
+}
+
+.gap-lg {
+    gap: 24px;
+}
